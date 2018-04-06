@@ -25,5 +25,7 @@ public class TugasAAksi {
             Abdi.Atribut="Rumah Ayah=Warna Dinding:Coklat,Warna genteng:Coklat"
                                  +"Bahan Dinding:Kasiboat, Bahan Lantai :Kayu Ulin ";
             Abdi.Behavior="Melindungi dari Hujan dan Panas";
+            
+            Abdi.cetakInfo();
 }
 }
