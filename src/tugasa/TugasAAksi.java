@@ -11,5 +11,6 @@ package tugasa;
  */
 public class TugasAAksi {
     public static void main(String[] args) { 
+        TugasA1 Abdi = new TugasA1(); 
 }
 }
